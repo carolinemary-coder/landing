@@ -1,0 +1,32 @@
+.btn-green{
+	background-color: #3E703D;
+	padding: 10px 25px;
+	border-radius: 20px;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+}
+
+.btn-green:hover {
+    background-color: #325A31;
+	color: white;
+	border-radius: 20px;
+}
+
+
+
+#btn-applysection{
+	padding: 7px 25px;
+	border-radius: 20px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	color: white;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #3E703D
+}
+
+#btn-applysection:hover {
+	background-color: #3E703D;
+	color: white;
+}

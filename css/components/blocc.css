@@ -1,0 +1,14 @@
+
+.blocc {
+	background-color:#f2f3f5;
+	padding: 10px;
+}
+
+
+.blocc img {
+	width: 300px;
+	float: right;
+	border-radius: 5px;
+	padding-left: 20px;
+}
+
